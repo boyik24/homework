@@ -6,3 +6,5 @@ class Person:
         print("deleted")
     def info(self):
         print("name :",self.name,"phone :",self.phone)
+human=Person("Ali",123443)
+human.info()
