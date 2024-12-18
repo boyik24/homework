@@ -6,4 +6,5 @@ class Person:
     def __delete__(self, instance):
         print("deleted")
 human=Person("qwerty",123432,"dg@gf.rdf")
-
+# admin01 branch da merge admin01
+# conflict merge
