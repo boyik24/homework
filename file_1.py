@@ -5,3 +5,5 @@ class Person:
         self.email=email
     def __delete__(self, instance):
         print("deleted")
+human=Person("qwerty",123432,"dg@gf.rdf")
+
