@@ -8,3 +8,5 @@ class Person:
         print("name :",self.name,"phone :",self.phone)
 human=Person("Ali",123443)
 human.info()
+# master branch da git merge master01
+# fast-forward merge
