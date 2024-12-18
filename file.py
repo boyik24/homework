@@ -4,3 +4,5 @@ class Person:
         self.phone=phone
     def __delete__(self, instance):
         print("deleted")
+    def info(self):
+        print("name :",self.name,"phone :",self.phone)
