@@ -7,3 +7,6 @@ class Person:
     def info(self):
         print("name :",self.name,"phone :",self.phone)
 human=Person("Vali",2345645)
+# main branch da git merge --squash main01
+# git commit -m "Change"
+# squash merge method bo'ladi
